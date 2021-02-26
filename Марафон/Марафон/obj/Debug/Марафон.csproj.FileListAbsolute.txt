@@ -1,0 +1,16 @@
+C:\Users\315\source\repos\Марафон\Марафон\bin\Debug\Марафон.exe.config
+C:\Users\315\source\repos\Марафон\Марафон\bin\Debug\Марафон.exe
+C:\Users\315\source\repos\Марафон\Марафон\bin\Debug\Марафон.pdb
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.csprojAssemblyReference.cache
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form1.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form2.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Properties.Resources.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.csproj.GenerateResource.cache
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.csproj.CoreCompileInputs.cache
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.exe
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.pdb
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form3.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form4.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form5.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form6.resources
+C:\Users\315\source\repos\Марафон\Марафон\obj\Debug\Марафон.Form7.resources
